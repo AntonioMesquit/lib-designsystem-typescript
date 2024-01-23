@@ -1,0 +1,18 @@
+{
+"compilerOptions": {
+"composite": false,
+"declaration": true,
+"declarationMap": true,
+"esModuleInterop": true,
+"forceConsistentCasing InFileNames": true,
+"inlineSources": false,
+"isolatedModules": true,
+"moduleResolution": "node",
+"no Unused Locals": false,
+"noUnused Parameters": false,
+"preserveWatchOutput": true,
+"skipLibCheck": true,
+"strict": true
+},
+"exclude": ["node_modules"]
+}
