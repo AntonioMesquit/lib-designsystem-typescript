@@ -1,11 +1,9 @@
 name: Deploy docs
-
-
 on:
 push: 
 branches:
--main
-jobs:
+-main:
+   jobs:
 build-and-deploy:
 runs-on: ubuntu-latest
 steps:
