@@ -44,6 +44,9 @@ export const Button = styled('button', {
           color: '$white',
           borderColor: '$gray200',
         },
+        '&:focus': {
+          boxShadow: '0 0 0 2px $colors$gray100',
+        },
       },
       tertiary: {
         color: '$gray100',
