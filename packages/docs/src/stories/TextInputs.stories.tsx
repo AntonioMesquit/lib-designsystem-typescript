@@ -1,4 +1,4 @@
-import {Box, Text, TextInput, TextInputProps} from "@ignite-ui/react"
+import {Box, Text, TextInput, TextInputProps} from "@tonho-ignite-ui/react"
 import type {StoryObj, Meta} from "@storybook/react"
 
 export default {
